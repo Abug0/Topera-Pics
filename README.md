@@ -1,2 +1,2 @@
 # Topera-Pics
-Pictures hub of Topera
+Pictures hub of Typora
